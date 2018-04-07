@@ -1,3 +1,9 @@
 # web2
-==============
-Welcome this new great project
+======
+Welcome to this new great project
+
+Contributors guide
+===================
+
+Just fork the repo and send me a pull request
+
